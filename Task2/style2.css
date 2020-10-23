@@ -1,0 +1,48 @@
+.RegistrationForm h1{        
+    font-weight: lighter;
+    margin:  0 0 0 0;
+    font-size: x-large;
+    padding-left: 15px; 
+    margin-top: 15px;
+    margin-bottom: 15px;    
+}
+.RegistrationForm{    
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(6, 144, 207);
+    width: 370px;
+    height: 240px;
+    border: rgb(3, 130, 192) solid 3px;   
+}
+.RegistrationForm button{
+    width: 90px;
+    height: 30px;
+    background: rgb(255, 223, 127);
+    border: none;
+    margin-left: 15px;
+    margin-top: 30px;    
+}
+.RegistrationForm label{
+    display: inline-block;
+    padding-top: 15px;  
+    margin-top: -5px;
+    margin-left: 15px;
+}
+
+.RegistrationForm input[type=email] {
+    width: 300px;
+    display: inline-block;
+    border: none;
+}
+
+.RegistrationForm input[type=password] {
+    width: 138px;
+    display: inline-block;
+    border: none;
+}
+
+.RegistrationForm hr {
+    border: 0.5px solid white;
+    width: 100%;
+} 
+
